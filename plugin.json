@@ -1,5 +1,5 @@
 {
-    "id": "nodebb-plugin-dbsearch",
+    "id": "nodebb-plugin-fsc-dbsearch",
     "name": "DB Search",
     "description": "A Plugin that let's users search posts and topics",
     "url": "https://github.com/barisusakli/nodebb-plugin-dbsearch",
